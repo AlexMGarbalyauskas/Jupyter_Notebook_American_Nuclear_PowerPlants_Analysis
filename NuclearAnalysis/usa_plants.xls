@@ -1,0 +1,29 @@
+Plant Name,Plant Code,Plant Output (%),Outage Amount (MW),Capacity (MW),Operating Units
+St Lucie,6045,100,0.0,1990.0,2
+North Anna,6168,100,0.0,1958.0,2
+Brunswick,6014,100,0.0,1928.0,2
+Nine Mile Point Nuclear Station,25899,96.7,62.7,1920.4,4
+Dresden Generating Station,869,100,0.0,1879.1,2
+Quad Cities Generating Station,880,100,0.0,1874.0,2
+Beaver Valley,6040,100,0.0,1872.0,2
+Arkansas Nuclear One,8055,100,0.0,1865.7,2
+Vogtle,6496,66,0.0,4530.0,4
+Palo Verde,6008,100,0.0,4003.0,3
+Browns Ferry,461,100,0.0,3755.8,3
+Peach Bottom,3166,100,0.0,2684.6,2
+South Texas Project,6251,100,0.0,2660.0,2
+Oconee,3265,100,0.0,2618.0,3
+PPL Susquehanna,6103,100,0.0,2494.0,2
+Comanche Peak,6145,100,0.0,2460.0,2
+Braidwood Generation Station,6022,100,0.0,2401.2,2
+McGuire,6038,100,0.0,2386.2,2
+Byron Generating Station,6023,100,0.0,2378.9,2
+Catawba,6036,100,0.0,2378.5,2
+Limerick,6105,100,0.0,2348.2,2
+LaSalle Generating Station,6026,98.5,35.3,2346.3,2
+Watts Bar Nuclear Plant,7722,49.7,1179.0,2343.0,2
+Sequoyah,6152,50.5,1155.1,2332.5,2
+PSEG Salem Generating Station,2410,51.1,1116.1,2284.7,2
+Donald C Cook,6000,100,0.0,2284.0,2
+Diablo Canyon,6099,100,0.0,2240.0,2
+Millstone,566,100,0.0,2121.1,2
